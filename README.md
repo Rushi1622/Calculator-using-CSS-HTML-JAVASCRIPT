@@ -17,4 +17,5 @@ Check it out below and let me know your thoughts!
 
 #OUTPUTS
 ![Screenshot 2024-07-13 163155](https://github.com/user-attachments/assets/24c06054-b9c1-42fa-b67c-4bc9195d5d62)
-![Screenshot 2024-07-13 163209](https://github.com/user-attachments/assets/3c60e5d4-9539-441e-98af-6d86b941f514)
+
+![Screenshot 2024-07-13 163554](https://github.com/user-attachments/assets/cadafd52-939f-424f-b5e9-e7e1dce65b9c)
